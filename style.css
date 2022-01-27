@@ -1,0 +1,28 @@
+* {
+    margin: 5px;
+}
+.row1 {
+    background-color: blue;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly
+}
+.row2 {
+    background-color: palevioletred;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly
+}
+.row3 {
+    background-color: rgb(187, 148, 76);
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#img {
+    height: 180px;
+}
+h1 {
+    text-align: center;
+}
